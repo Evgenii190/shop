@@ -23,7 +23,7 @@ const ProjectPopup = ({ setIsOpen }) => {
                 <div className={styles.popup__inner_flex}>
                     <div>
                         <h4 className={styles.popup__title}>
-                            Проект "Венеция"
+                            Проект {"Венеция"}
                         </h4>
                         <div className={styles.characteristics}>
                             <div className={styles.characteristics__items}>

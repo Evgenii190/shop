@@ -33,7 +33,7 @@ const Projects = () => {
                         />
                         <div className={styles.job__info}>
                             <h6 className={styles.job__title}>
-                                Проект "Венеция"
+                                Проект {"Венеция"}
                             </h6>
                             <div className={styles.job__text_flex}>
                                 <p className={styles.job__text_left}>Размер</p>
@@ -97,7 +97,7 @@ const Projects = () => {
                         />
                         <div className={styles.job__info}>
                             <h6 className={styles.job__title}>
-                                Проект "Венеция"
+                                Проект {"Венеция"}
                             </h6>
                             <div className={styles.job__text_flex}>
                                 <p className={styles.job__text_left}>Размер</p>
@@ -161,7 +161,7 @@ const Projects = () => {
                         />
                         <div className={styles.job__info}>
                             <h6 className={styles.job__title}>
-                                Проект "Венеция"
+                                Проект {"Венеция"}
                             </h6>
                             <div className={styles.job__text_flex}>
                                 <p className={styles.job__text_left}>Размер</p>
@@ -227,7 +227,7 @@ const Projects = () => {
                         />
                         <div className={styles.job__info}>
                             <h6 className={styles.job__title}>
-                                Проект "Венеция"
+                                Проект {"Венеция"}
                             </h6>
                             <div className={styles.job__text_flex}>
                                 <p className={styles.job__text_left}>Размер</p>
@@ -293,7 +293,7 @@ const Projects = () => {
                         />
                         <div className={styles.job__info}>
                             <h6 className={styles.job__title}>
-                                Проект "Венеция"
+                                Проект {"Венеция"}
                             </h6>
                             <div className={styles.job__text_flex}>
                                 <p className={styles.job__text_left}>Размер</p>
@@ -359,7 +359,7 @@ const Projects = () => {
                         />
                         <div className={styles.job__info}>
                             <h6 className={styles.job__title}>
-                                Проект "Венеция"
+                                Проект {"Венеция"}
                             </h6>
                             <div className={styles.job__text_flex}>
                                 <p className={styles.job__text_left}>Размер</p>

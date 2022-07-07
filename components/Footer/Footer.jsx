@@ -16,7 +16,7 @@ const Footer = () => {
                     </div>
                     <div className={styles.footer__links_column}>
                         <h6 className={styles.footer__links_title}>
-                            Наши услуги{" "}
+                            Наши услуги
                         </h6>
                         <p>Монтаж каминов</p>
                         <p>Производство облицовок</p>

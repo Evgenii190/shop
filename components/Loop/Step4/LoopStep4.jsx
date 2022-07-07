@@ -6,7 +6,7 @@ const LoopStep1 = () => {
     return (
         <>
             <h5 className={styles.loop__subtitle}>
-                Изготовление облицовок <br /> камина на собственном <br />{" "}
+                Изготовление облицовок <br /> камина на собственном <br />
                 производстве
             </h5>
             <ul className={styles.loop__list}>

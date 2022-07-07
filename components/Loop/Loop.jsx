@@ -20,7 +20,7 @@ const Loop = () => {
             <img className={styles.loop__bg} src="/images/loop-bg.png" alt="" />
             <div className={styles.container}>
                 <h3 className={styles.loop__title}>
-                    Осуществляем{" "}
+                    Осуществляем
                     <span>
                         полный цикл работ <br />
                     </span>

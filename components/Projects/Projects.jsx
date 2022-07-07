@@ -193,11 +193,11 @@ const Projects = () => {
                             </div>
                             <div className={styles.job__text_flex}>
                                 <p className={styles.job__text_left}>
-                                    Дымоход{" "}
+                                    Дымоход
                                 </p>
                                 <div className={styles.job__dots}></div>
                                 <p className={styles.job__text_right}>
-                                    Дымоход{" "}
+                                    Дымоход
                                 </p>
                             </div>
                             <div className={styles.job__price}>
@@ -259,11 +259,11 @@ const Projects = () => {
                             </div>
                             <div className={styles.job__text_flex}>
                                 <p className={styles.job__text_left}>
-                                    Дымоход{" "}
+                                    Дымоход
                                 </p>
                                 <div className={styles.job__dots}></div>
                                 <p className={styles.job__text_right}>
-                                    Дымоход{" "}
+                                    Дымоход
                                 </p>
                             </div>
                             <div className={styles.job__price}>
@@ -325,11 +325,11 @@ const Projects = () => {
                             </div>
                             <div className={styles.job__text_flex}>
                                 <p className={styles.job__text_left}>
-                                    Дымоход{" "}
+                                    Дымоход
                                 </p>
                                 <div className={styles.job__dots}></div>
                                 <p className={styles.job__text_right}>
-                                    Дымоход{" "}
+                                    Дымоход
                                 </p>
                             </div>
                             <div className={styles.job__price}>
@@ -391,11 +391,11 @@ const Projects = () => {
                             </div>
                             <div className={styles.job__text_flex}>
                                 <p className={styles.job__text_left}>
-                                    Дымоход{" "}
+                                    Дымоход
                                 </p>
                                 <div className={styles.job__dots}></div>
                                 <p className={styles.job__text_right}>
-                                    Дымоход{" "}
+                                    Дымоход
                                 </p>
                             </div>
                             <div className={styles.job__price}>

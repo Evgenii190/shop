@@ -1,16 +1,71 @@
 html,
 body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    padding: 0;
+    margin: 0;
 }
 
 a {
-  color: inherit;
-  text-decoration: none;
+    color: inherit;
+    text-decoration: none;
 }
 
 * {
-  box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Mont-Regular";
+    color: #fff;
+}
+
+li {
+    list-style: none;
+}
+
+.container {
+    max-width: 1160px;
+    margin: 0 auto;
+}
+
+img {
+    pointer-events: none;
+}
+
+.dots {
+    border-bottom: 2px dotted #98928b;
+    flex: 1 1;
+    margin: 0 8px;
+    position: relative;
+    opacity: 0.2;
+    top: -7px;
+}
+
+@font-face {
+    font-family: "Mont-Regular";
+    src: url("/fonts/Mont-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Mont-Bold";
+    src: url("/fonts/Mont-Bold.ttf");
+}
+
+@font-face {
+    font-family: "Mont-Semi";
+    src: url("/fonts/Mont-SemiBold.ttf");
+}
+
+@font-face {
+    font-family: "Berling-Semi";
+    src: url("/fonts/BerlingskeSerif-SemiBold.ttf");
+}
+
+@font-face {
+    font-family: "Berling-Regular";
+    src: url("/fonts/BerlingskeSerif-Md.ttf");
+}
+
+@font-face {
+    font-family: "Berling";
+    src: url("/fonts/BerlingskeSerif-Lt.ttf");
 }
